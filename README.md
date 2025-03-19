@@ -54,11 +54,16 @@ Have suggestions or want to improve this project? Feel free to **fork** the repo
 ---
 
 ## 📩 Contact  
-For any queries or feedback, connect with me on **[LinkedIn](your-linkedin-url)**.  
+For any queries or feedback, connect with me on **[LinkedIn](https://www.linkedin.com/in/ojasbalsotra/)**.  
 
 
+## 🌟 Final Thoughts  
+This project aims to provide **actionable insights** into Coffee's sales trends across three nations. Whether you're a **business analyst, data enthusiast, or Excel expert**, this dashboard can help you explore and optimize sales performance.  
 
+📊 **Keep analyzing, keep optimizing!** 🚀  
 
 ### ⭐ If you find this project useful, don't forget to **star** this repository!  
 
-Love 
+-----************-----
+
+
